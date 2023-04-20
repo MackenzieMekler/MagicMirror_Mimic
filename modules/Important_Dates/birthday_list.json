@@ -1,0 +1,12 @@
+{
+  "birthdays": [
+    ["date", ["people"]]
+  ],
+  "anniversaries": [
+    ["date", ["people"]]
+  ],
+  "VIPs": [
+    "Enter Here"
+  ]
+
+}

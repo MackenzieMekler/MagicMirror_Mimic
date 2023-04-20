@@ -1,0 +1,45 @@
+{
+  "modules": [
+    {
+      "module_name": "clock",
+      "module_position": "top_left",
+      "module_information": {
+        "date_format": "%A %b %d",
+        "time_format": "%H:%M:%S"
+      }
+    },
+    {
+      "module_name": "Canvas",
+      "module_position": "bottom_left",
+      "module_information": {
+        "API_key": "Enter Here",
+        "url": "Enter Here",
+        "active_courses": [
+          "Enter Here"
+        ]
+      }
+    },
+    {
+      "module_name": "weather",
+      "module_position": "top_right",
+      "module_information": {
+        "latitude": "Enter Here",
+        "longitude": "Enter Here",
+        "properties": {
+          "main": "current_temperature",
+          "icon": "current_weathercode",
+          "side": "max_min",
+          "below": "forecast"
+        }
+      }
+    },
+    {
+      "module_name": "Important_Dates",
+      "module_position": "center_middle",
+      "module_information": {}
+    }
+  ],
+  "location": "Enter here",
+  "timezone": "Enter here",
+  "name": "Enter here"
+}
